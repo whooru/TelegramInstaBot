@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>TelegramInstaBot</groupId>
+  <artifactId>TelegramInstaBot</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200928210613</lastUpdated>
+  </versioning>
+</metadata>
